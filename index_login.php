@@ -11,6 +11,7 @@
 </tr>
 <tr>
 <td colspan="2"><input type="submit" value="LOGIN"></td>
+<td><input type="button" onClick="window.location.href='daftar.php'" value="DAFTAR"></td>
 </tr>
 </table>
 </form>
