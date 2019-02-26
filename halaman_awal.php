@@ -11,7 +11,8 @@ echo "NAMA : ".$_SESSION["nama"]."<br>";
 ?>
 <hr>
 <div id="menu">
-<h2>LINK</h2>
+<h2>Menu Halaman Lain</h2>
+Ini merupakan halaman dasboard !<br>
 <a href="halaman_1.php">Halaman 1</a><br>
 <a href="halaman_2.php">Halaman 2</a><br>
 <a href="logout.php">LOGOUT</a><br>
